@@ -30,7 +30,7 @@ Customer churn is one of the most critical challenges faced by subscription-base
 |--------|------------|
 | `Telco-Customer-Churn.csv` | Telecom customer churn dataset |
 | `Churn Analysis - EDA.ipynb` | Data cleaning, preprocessing, and exploratory analysis |
-| `Exploratory Data Analysis - Satyajit.pdf` | EDA report and findings |
+| `Exploratory Data Analysis.pdf` | EDA report and findings |
 | `Telecom Retention - Business Understanding.pdf` | Business problem definition and objectives |
 | `Telecom-Churn-Analysis-Dashboard.pbix` | Interactive Power BI dashboard |
 | `README.md` | Project documentation |
